@@ -12,5 +12,5 @@ https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd?stime=1686713433
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdb5de569b84b5273b758afcebbedd427ae70317.cws.conviva.com/0/wsg
-#EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="ID",RCTI
+#EXTINF:-1 tvg-id="RCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="ID",RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
