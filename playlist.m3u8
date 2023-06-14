@@ -2,15 +2,50 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.indihometv.com/cert_license_widevine_com.bin
-#EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="ID",ANTV
+#EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="ID",ANTV
 https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?stime=1686712079&etime=1686712079&encoded=0c321019e730ed9caa41c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.indihometv.com/cert_license_widevine_com.bin
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://e7.pngegg.com/pngimages/750/187/png-clipart-logo-arirangtv-television-in-south-korea-korean-culture-television-text-thumbnail.png" group-title="ID",arirang
+#EXTINF:-1 tvg-id="ARG.ID" tvg-logo="https://images.indihometv.com/logo_arirang_small.png" group-title="ID",ARIRANG
 https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd?stime=1686713433&etime=1686713433&encoded=0132a4017d664ef6c79d6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdb5de569b84b5273b758afcebbedd427ae70317.cws.conviva.com/0/wsg
-#EXTINF:-1 tvg-id="RCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="ID",RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://www.indihometv.com/cert_license_widevine_com.bin
+#EXTINF:-1 tvg-id="KMP.ID" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="ID",KOMPAS TV
+https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd?o1=3903293293&o2=3903293293&o3=3903303293&o4=3903303293&oa=3903303293
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.indihometv.com/cert_license_widevine_com.bin
+#EXTINF:-1 tvg-id="MNC.ID" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" group-title="ID",MNC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-id="CNN.ID" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=10.9.1" group-title="ID",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TRI.ID" tvg-logo="https://images.indihometv.com/logo_tvri_small1.png?v=2.0.0.13" group-title="ID",TVRI
+https://etslive-app.vidio.com/live/6441/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdmJQL1lWSndHMTlHQ1c2LzM1QnRkZGVnbEhqUCtrWHJabUFSMkFUYURjSU1ZVTd1Y1F4UVFlUTBFSURnekZGRUEyMXZCU3Fmcmt2R0tCUVcwL2FZblBpUWFJU3BCUFg1RkpmdFk5WW9ja3AwOTJad0l4UDBqb1NyKzh6N1hXaXhFWG13ZTNaSm01TXoxTXRxZjFmNWJzb0NmWnFScXU2QXNpcENTY1VYS1YxbCthaEpzbWhaemdMQ0hhVnJYWVpzeDROSk9XUDgzL01naGdTVVRCQmRMRG8yQTdseEkxNlpZVWJuNGpmYk5wZlZnNVYxV242T2ZYUjJiNE1oVjJydWRucDNlM3lyUy83M0p2N0pmazdEMXhGMmU4VzNubzhhSWI4dlgrbjREMXBNSDczQ0Mvb0lVelByRG9ZZTE2WjIwdUR1U3VNVTJGT3BpQk5ZMmRhelhwMXh5OGRoam05U3JLV2NZVEdKNWl0M1FFTXY4MUxtK0JwM29BUE1tQUM1WG5Dei9CV0FBUmhoZVpwbW93STJvSzI4Y0hLQUVCcjlIREZIRTdOaWM5dlZSWnJwMjZZVzRSa3FQZWRiNFUveFhQbHd4NG4rVUM5ZHU4ekNNQXBJazRlbmRvc0hzdDVJWEdabXdmSXN3R01LQ2wyQTFid1JCNzI0YUVkcnIxUjRiWFhTQXBjWWFqSFNhN082WjcxdjM2TVM4ZXFCOGlNeW5DMnpsUStPODQxNDROc0NGeWw5bGI4THRteVZzTS9RZEVaTU9ZdDgvcU5ZUDM4Yit1K1ZVaFM0eGpqZ2tsb0NtblkrWE9BTFlJZitzMkRpQkpVK0htN0NUM0VKUTdvTlFqd1RpWGVteWU4TWhUblRVRWZldzdDSGk2WjM5dW5aeEtYTEVCTTFnYTlVYVJYMGtJS3lNNlBPeWZYMmVnQjFNZ24xNk1YTnRIR0tVNEM1b2JmczN0OG05eENLTlVEOTc3M0VmVCtHTS9mMU1HeGF3RkNYMmVZcEZVSm9YWVZNQ0JsR2k2TVd6RGpPRnRyVndEb3ZLbHMxQnpGdnhKbjRPK0g0UWJWNnhnQXM9&trace_id=21332521da6a29ba478a4ff6cc21476a/5338296955426242378
+
+#EXTINF:-1 tvg-id="MOJ.ID" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="ID",MOJI
+https://etslive-app.vidio.com/live/206/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdnpMVG5lSWJOR0NxTUlmbi9EZFVCQWlueWJIVTFMYWhnek4rUFNvRnZRVHpEYlFqQ1VSY2F3Rm41SVZ3eWxzVlNBcVI0V1Y2Z1VNa3dBVHlUalBpZkZ2aWVsNzlBQW13dkdlOUNGbmtRdG81bzF5VGdwVXVpMDlUaklRYmlYV0N6MGpGZk9EaDArNmNtczRkN0w4azJ5RHhhQkhZTkJqYmpmZ01JR1Z3VWc2eUREK2F0VGc1bjhWV3ZNVEM2MkxRV2FHL2RvTE81VnMyQmFBNWdGQzZTTmVEUVZLWWwrQjBlakYySHdWZGlZb2pPRlByMXBQa2hzUGFoVUVrNE9Nc1lEelFnWW5CMTdVbE41dWlGUFltL3hLKzVwZ2dlbkFkOXhiYzJZclBheCsrRkxNZi9NYkdMeW9CZUE0VlFrcTJnVTl5SWdEVG9TM3Q0M1R2OVVOdEs0Z0tMZEhPT3RrZTJmZXR5VjBmL1ZJRFdTNGM5S3hXUGFBOEF5dmpIZ0RROFlzVmtXd0ZseWVYZ0JVTjFERUdpMUF1dTRoYTdHVXcxMTVXSG9LMVhKalJWR0xMaVBmeHdQeEdLcWVuQmQvTm1MN2RadGtVVENIck0vOVhKRjk3QTM5RS9Kd1RMWStndTUwT3ovcWdkcGxCeFJQc0Z3MklPNm5yTGVsZjlrbnoyOTZJdFYvVTcxeVhKcHpNckFXYzRrZUdkQklpTWovVjd0YVFBQ0Z3VlJuY1R2eGplcjZad0lTd3RnMHVjSkpwNjBjOFpmMHg4VnJpQWgwM3lHVVZxUjJwdUgzditXTWlSVTA3bk10VUZieldoaS9RNG1raGMwcGtKQ3MydDVFMEVsK2d0K1dVa1hFbW11a2R5bG9vRlpkdTU4ZkVvSmlJS2hBeEt5WW1ENzBsMGswV29HV0pBRTJibGYycUUrb0p2&trace_id=91ab183e7336bade89edcdfcadcc8a91/16743096188428038668
+
+#EXTINF:-1 tvg-id="AJW.ID" tvg-logo="https://thumbor.prod.vidiocdn.com/vOv_y7LMPnSEX0KlJSnADdHndFI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png" group-title="ID",AJWA
+https://app-etslive-2.vidio.com/live/7464/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdm5reWRRbFdUc1Q0cHpWang2UUhRTlI1U21yMFRKNnZ3MUZZb1BBcG1wYVFxWHdZWFFJZk9YbkNVeVJreHplYkRHeWg0SU1pNEI5WXJIL3Z1ZXQzWFVwQ0lmbDB4OGlLelJNSjhuSUdia1FXMlUxM3l6UXU1ZkY3N1JrRHRsTmJsam53QnBQZEpuTUZibDNsakRkek1XSkttOEpTMERVRUh5ekhNUHlPRmRwcnk1WVA5bkZKNnFPbzR5K3FwSGRFL1h0citvbGMwdXdaQUxyU0dsL1lHZ1lyREU0SHlwQTFkMjhwOElscTQ2NWNsMGJ0VERLRzBJK1puS1JEV3BZczk3UDNGTTBSZ210ZE5pd0MyeFBoMmdkY3dVenNUNjduV0tHcE1vSHk1Yk1GR0pkQ20waThhY2x4dzYyTXBHUjYvMkFvdnIzQzEzKzhpRmI4WUgzRXBDYTVKcE5XVHFMTUFLMmNhMGpkczVHVzlmWEducmNkTUNOVXpkVUV6cXcyWlFMRzNKWDNqZi9FVnVqQ0g4RHZLRndrM2pyalNPU29kQUNQVDUvQ1dwcmZVTnZHY1A0dGZjNnVDSjNjUGZZT2tENExjeXoxOTRHVlVEd2t3NGUwR0tkd3N0bURkU0h1dWlvUUJyL3Vhd083OUEzYjVWbUhDWUJkOTZsZUJqaTZMVDF5WmN2MjNzOHlCUkxEczBoeHgwdGxxUjJ4bHZIWE04TnJlcVNXL3JZaDdJK2ZaZEhuci9RU2p6cHdUemc4NHN0aE90ZmhJUmROb044ZmJxdXhkWmdWWWtHaTI1TUpYcTh2djZjQzdIWVhpLzdOQzZNZnNzc21rRlM4WlJqZjJKTUZJRDlYdXdqVzRCVE5Kd051cytmMUhjb09Bak5PUHhLOVBveXdXVjYyQ3lRVXhvY0lQMEdJcGU2ckp1dEx2Sk5OMzEyVzJ0dXNZbndBZjZPTFBoNlFyY2N4alJrbms3RStobWpHL2hCdlRObFNSdktIcTBDclhXWTdESXlERWFKb2hseTA1cWxNUU5TQkdxbTNWQTlFMXlaelNiczQwL3ZuVk41Tm9zaUU9&trace_id=a1dc0dd34a0149dc05e56f0e3e759050/17383347350620260980
+
+#EXTINF:-1 tvg-id="ONE.ID" tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="ID",TVOne
+https://etslive-app.vidio.com/live/783/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkxXNitwSjN6WE16U0pPa1ZPVDNKcjlHSEpyRHRjc3ovTDRNWWlTclpvaXZpTGRPMEJyUGoxNGdoZzlxQVlKa0xhaDB0ejE1MVZFeitZS0ZCS214QXBCdDUrMys0SmdPckNMTWF6L1RIL05MTjhlbkxLeG4xTWRNeHV1ck56ZXNoK1F4ZnlBM1Fac1R2TFV6NnovUTFyNjBjTnF0bitaTVB3dDNlbFJDZWZSVlpPVXcyY0FNSnVxNitDMUJ2djJhSHdBcTJqRUZVd2d1bXIrU0lnNzZFL0JTMDlpWjJyb0h2WXVHY1JlS2prMFZUd2FxNXdPSkxLMERlT1Y1VzdGNWtLRW13WEdwcjcyWEU2dXVFUGo0UkJZYU9neUk1U2orV0o3QUgrNGxLc0NlVEEzaFJ3Z2VLY3RkQWhLS3VmbmJFa1Q4M0szOExOQUo2VEVVVXZobFNTSktuRDZqd3dqZFdhcVY5WGYwTGsyRlQ4c0NpZ3RJWjlweHFxR1ViYjZPcDNrWlRoaTVVRExWOHhmU1k1Z3BjNE5DNzZ3Wm9aMzNqV0VHQ1RIU0pCZU1UVmFmVHcrZkZOOG5wQk9VQTR0cFFmUWZDOUc3NzVPdmZqVXB0S1VHdWoxUGYzallDRTJaaTNBYmFQWG0xZm0xUjFWdE14SDduZE9hQkdMT0FyeVA4bWVIcndMeXNNMFcvMmo4Nzk4Ty9QbSt1bXRnZXhNei9hNjdmd0RTNlJ2dUF0NW5KbkZZTTg5ZmRDdFJlSnRacXA2RXg0U0hZTFVvM0Z4N0xVekMzbUNrSS96WDlqcnpBQTE2alhnRldlQmVGZHBqQnBudzdNRzVwV1JpeXRiVnhqbzdNZ0JrMUpsbFUxUS9VRmh2aENKS2ZTYURDNDFqeFUrc0NRdFJjOUJuMU50YmxzYmhyb3hpSzBISmxGamFm&trace_id=209ce6f929c18c07ce189e1a770ee962/423307826634159166
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.vidio.com/live/733/tokens?type=dash
+#EXTINF:-1 tvg-id="TTV.ID" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="ID",TRANS TV
+https://etslive-2-vidio-com.akamaized.net/exp=1686735080~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~hmac=361c99dc87a1f93c7a27526432253b51b6df79d3a2e284a484dd7f0f053a74d2/vp9/733_stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.indihometv.com/cert_license_widevine_com.bin
+#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="ID",TRANS7
+https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?o1=3907552367&o2=3907552367&o3=3907552367&o4=3907552367&o5=3907552367&oa=3907552367
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.indihometv.com/cert_license_widevine_com.bin
+#EXTINF:-1 tvg-id="DWE.ID" tvg-logo="https://images.indihometv.com/logo_dwtv_ver1.png" group-title="ID",DW TV
+https://cdn09jtedge.indihometv.com/dvr/139/dwtv/manifest.mpd?stime=1686721312&etime=1686721312&encoded=015263c6432bbe2163164
