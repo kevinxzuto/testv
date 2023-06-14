@@ -1,0 +1,11 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.indihometv.com/cert_license_widevine_com.bin
+#EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="ID",ANTV
+https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?stime=1686712079&etime=1686712079&encoded=0c321019e730ed9caa41c
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.indihometv.com/cert_license_widevine_com.bin
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://e7.pngegg.com/pngimages/750/187/png-clipart-logo-arirangtv-television-in-south-korea-korean-culture-television-text-thumbnail.png" group-title="ID",arirang
+https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd?stime=1686713433&etime=1686713433&encoded=0132a4017d664ef6c79d6
